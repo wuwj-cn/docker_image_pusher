@@ -1,7 +1,4 @@
-docker.getcollate.io/openmetadata/db:1.4.5
-docker.elastic.co/elasticsearch/elasticsearch:8.10.2
-docker.getcollate.io/openmetadata/server:1.4.5
-docker.getcollate.io/openmetadata/ingestion:1.4.5
+tugraph/tugraph-compile-centos7:1.3.2
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 # xhofe/alist:latest
