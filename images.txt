@@ -1,6 +1,4 @@
-provectuslabs/kafka-ui:latest
-bitnami/kafka:3.3.1
-portainer/portainer:latest
+ibmcom/db2:latest
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 # xhofe/alist:latest
