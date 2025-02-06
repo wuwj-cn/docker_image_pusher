@@ -1,5 +1,4 @@
-langgenius/dify-api:0.15.2
-langgenius/dify-web:0.15.2
+supersonicbi/supersonic:0.9.2-SNAPSHOT
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 # xhofe/alist:latest
